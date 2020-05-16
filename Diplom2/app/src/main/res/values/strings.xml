@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Diplom2</string>
+    <string name="buttonStart">Начать</string>
+    <string name="testText"></string>
+    <string name="mainDescription"> </string>
+    <string name="startDescription">Помощник в Реабилитации</string>
+    <string name="titleRigictracia">Регистрация</string>
+    <string name="title_activity__2">Activity__2</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_open">"Авторизация"</string>
+    <string name="registration_regist">"Зарегистрироваться"</string>
+    <string name="Login_or">"или"</string>
+
+    <string name="plan__name">"Колено"</string>
+
+    <string name="list__name">"Список Пациентов"</string>
+
+    <string name="patientList__name">"Доступные планы тренировок"</string>
+    <string name="patientList__create">"Создать план"</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue1">#3AC3CD</color>
+    <color name="grece1">#F3F7F7</color>
+    <color name="grece2">#A7ABAE</color>
+</resources>
